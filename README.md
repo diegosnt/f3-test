@@ -22,10 +22,12 @@
 5) reemplazar gitignore
  https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,react
 
-6) iniciar app
+6) iniciar app  http://localhost:5173/
+
+```
  npm run dev
- http://localhost:5173/
- 
+```
+
 7) asociar repo local y github
 ```
  echo "# f3-test" >> README.md
